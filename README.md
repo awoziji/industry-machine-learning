@@ -2,10 +2,10 @@
 
 ### Admin
 
-Other FirmAI projects include **[AtsPy](https://github.com/firmai/atspy)** automating Python's best time series models and
-**[PandaPy](https://github.com/firmai/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster).
+Other FirmAI projects include **[AtsPy](https://github.com/awoziji/atspy)** automating Python's best time series models and
+**[PandaPy](https://github.com/awoziji/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster).
 
-If you enjoy this repository, you would also like [google-colab-notebooks](https://github.com/firmai/google-colab-notebooks): Google Colaboratory End-to-End Notebooks and Repositories https://google-colab.com/. 
+If you enjoy this repository, you would also like [google-colab-notebooks](https://github.com/awoziji/awesome-google-colab): Google Colaboratory End-to-End Notebooks and Repositories https://google-colab.com/. 
 
 ##### Also instead of "watching"  you can **join** the link-letter, there is already about 8000 sign-ups, first email will be sent out Feb 2020. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
